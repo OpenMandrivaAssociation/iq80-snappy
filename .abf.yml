@@ -1,2 +1,4 @@
 sources:
+  snappy-0.5.tar.gz: 9e534380fdce48dabe369940d9844dfdf434f613
+removed_sources:
   snappy-0.4.tar.gz: 2d8c12caec1b11bb4665b70f587280aa7f8bc0dd
